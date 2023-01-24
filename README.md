@@ -23,9 +23,7 @@ Python Fundamentals II
 * **5**: Data Analysis
 * **6**: Project
 
-After completing this workshop, you will be able to do basic operations in Python. You will know how to navigate Jupyter Notebooks, how to work with common data types and structures, how to import libraries and data, and how to do basic data science using Pandas. 
-
-After completing this workshops, you can continue to [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
+After completing this workshop, you will be able to do basic operations in Python. You will know how to navigate Jupyter Notebooks, how to work with common data types and structures, how to import libraries and data, and how to do basic data science using Pandas. You will be able to continue to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
 
 ## Installation Instructions
