@@ -7,7 +7,11 @@ This repository contains the materials for D-Lab’s Python Fundamentals I works
 
 ## Workshop Goals
 
-In this workshop, we provide an introduction to Python. We do so in two workshops split in three sessions. Each session takes 2 hours.
+This two-part interactive workshop series is your complete introduction to programming Python for people with little or no previous programming experience. By the end of the series, you will be able to apply your knowledge of basic principles of programming and data manipulation to a real-world social science application.
+
+Each of the parts is divided into a lecture-style coding walkthrough interrupted by challenge problems, discussions of the solutions, and breaks. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
+
+Python Fundamentals consists of two parts, both split into three sessions. Each session takes 2 hours.
 
 Python Fundamentals I
 * **1**: Jupyter and Python
@@ -16,12 +20,12 @@ Python Fundamentals I
 
 Python Fundamentals II
 * **4**: Control Flow and Functions
-* **5**: Numpy and Pandas
-* **6**: Practicing Pandas (+ Project)
+* **5**: Data Analysis
+* **6**: Project
 
 After completing this workshop, you will be able to do basic operations in Python. You will know how to navigate Jupyter Notebooks, how to work with common data types and structures, how to import libraries and data, and how to do basic data science using Pandas. 
 
-After completing this workshops, you can continue to the [Python Fundamentals II](LINK) or [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) workshops.
+After completing this workshops, you can continue to [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
 
 ## Installation Instructions
