@@ -3,7 +3,7 @@
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Fundamentals-Revamp&urlpath=lab%2Ftree%2FPython-Fundamentals-Revamp%2F) [![Binder](http://mybinder.org/badge.svg)](LINK)
 
 
-This repository contains the materials for D-Lab’s Python Fundamentals I workshop. No prior experience with Python is required.
+This repository contains the materials for D-Lab’s Python Fundamentals workshop. No prior experience with Python is required.
 
 ## Workshop Goals
 
