@@ -11,21 +11,23 @@ This three-part interactive workshop series is your complete introduction to pro
 
 Each of the parts is divided into a lecture-style coding walkthrough interrupted by challenge problems, discussions of the solutions, and breaks. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
-Python Fundamentals consists of two parts: Python Fundamentals I and Python Fundamentals II. Both parts contain three two-hour sessions.
+Python Fundamentals consists of two parts: Python Fundamentals I and Python Fundamentals II. 
 
-Python Fundamentals I
+Python Fundamentals I is intended for the complete beginner in Python. We will go over the basics of Python in Jupyter, variables and data types, and  a gentle introduction to data analysis in Pandas. It contains three two-hour sessions:
 
 1. Introduction to Jupyter and Python, Variables
 2. Data Types and Structures
 3. Introduction to Pandas
 
-Python Fundamentals II
+Python Fundamentals II further introduces functions, loops and conditionals, and more advanced data analysis in Pandas. It contains three two-hour sessions:
 
 1. Control Flow and Functions
 2. Data Analysis and Visualization
 3. Project
 
-After completing this workshop, you will be able to do basic operations in Python. You will know how to navigate Jupyter Notebooks, how to work with common data types and structures, how to import libraries and data, and how to do basic data science using Pandas. You will be able to continue to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
+Both Python Fundamentals I and II can be taken separately. 
+
+After completing the entire workshop, you will be able to do basic operations in Python. You will know how to navigate Jupyter Notebooks, how to work with common data types and structures, how to import libraries and data, and how to do basic data science using Pandas. You will be able to continue to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
 
 ## Installation Instructions
