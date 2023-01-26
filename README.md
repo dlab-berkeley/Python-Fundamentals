@@ -3,31 +3,29 @@
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Fundamentals-Revamp&urlpath=lab%2Ftree%2FPython-Fundamentals-Revamp%2F) [![Binder](http://mybinder.org/badge.svg)](LINK)
 
 
-This repository contains the materials for D-Lab’s Python Fundamentals I and II workshops. No prior experience with Python is required.
+This repository contains the materials for D-Lab’s Python Fundamentals workshop series. No prior experience with Python is required.
 
 ## Workshop Goals
 
 This interactive workshop series is your complete introduction to programming Python for people with little or no previous programming experience. By the end of the series, you will be able to apply your knowledge of basic principles of programming and data manipulation to a real-world social science application.
 
-Each of the parts is divided into a lecture-style coding walkthrough interrupted by challenge problems, discussions of the solutions, and breaks. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
+Python Fundamentals series has 6 parts. Each of the parts takes 2 hours, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
-Python Fundamentals consists of two parts: Python Fundamentals I and Python Fundamentals II. 
+Parts 1-3 are intended for the complete beginner in Python. We will go over the basics of Python in Jupyter, variables and data types, and a gentle introduction to data analysis in Pandas:
 
-Python Fundamentals I is intended for the complete beginner in Python. We will go over the basics of Python in Jupyter, variables and data types, and  a gentle introduction to data analysis in Pandas. It contains three two-hour sessions:
+1. **Part 1: Introduction to Jupyter and Python, Variables**
+2. **Part 2: Data Types and Structures**
+3. **Part 3: Introduction to Pandas**
 
-1. Introduction to Jupyter and Python, Variables
-2. Data Types and Structures
-3. Introduction to Pandas
+Parts 4-6 introduce functions, loops and conditionals, and more advanced data analysis in Pandas. It contains three two-hour sessions:
 
-Python Fundamentals II further introduces functions, loops and conditionals, and more advanced data analysis in Pandas. It contains three two-hour sessions:
+4. Part 4: Control Flow and Functions
+5. Part 5: Data Analysis and Visualization
+6. Part 6: Project
 
-1. Control Flow and Functions
-2. Data Analysis and Visualization
-3. Project
+After completing parts 1-3, you will be able to do basic operations in Python. You will know how to navigate Jupyter Notebooks, how to work with common data types and structures, methods, and basic operations in Pandas. You will have the minimum requirements to continue to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
-Both Python Fundamentals I and II can be taken separately. 
-
-After completing the entire workshop, you will be able to do basic operations in Python. You will know how to navigate Jupyter Notebooks, how to work with common data types and structures, how to import libraries and data, and how to do basic data science using Pandas. You will be able to continue to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
+After completing parts 4-6, you will be able to understand for-loops, if-statements, be able to write your own functions, and do more operations in Pandas, including some visualization. You will be easily able to transition to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
 
 ## Installation Instructions
