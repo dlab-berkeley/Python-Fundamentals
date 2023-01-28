@@ -11,21 +11,21 @@ This interactive workshop series is your complete introduction to programming Py
 
 Python Fundamentals series has 6 parts. Each of the parts takes 2 hours, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
-Parts 1-3 are intended for the complete beginner in Python. We will go over the basics of Python in Jupyter, variables and data types, and a gentle introduction to data analysis in Pandas:
+Python Fundamentals I is intended for the complete beginner in Python. We will go over the basics of Python in Jupyter, variables and data types, and a gentle introduction to data analysis in Pandas:
 
-1. **Part 1: Introduction to Jupyter and Python, Variables**
+1. **Part 1: Introduction to Jupyter and Python**
 2. **Part 2: Data Types and Structures**
 3. **Part 3: Introduction to Pandas**
 
-Parts 4-6 introduce functions, loops and conditionals, and more advanced data analysis in Pandas. It contains three two-hour sessions:
+Python Fundamentals II introduces functions, loops and conditionals, and more advanced data analysis in Pandas. It contains three two-hour sessions:
 
-4. Part 4: Control Flow and Functions
-5. Part 5: Data Analysis and Visualization
-6. Part 6: Project
+4. **Part 1: Control Flow and Functions**
+5. **Part 2: Data Analysis and Visualization**
+6. **Part 3: Project**
 
-After completing parts 1-3, you will be able to do basic operations in Python. You will know how to navigate Jupyter Notebooks, how to work with common data types and structures, methods, and basic operations in Pandas. You will have the minimum requirements to continue to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
+After completing Python Fundamentals, you will be able to navigate Jupyter Notebooks, assign variables, distinguish common data types and structures, apply methods, and do basic operations in Pandas. You will have the minimum requirements to continue to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
-After completing parts 4-6, you will be able to understand for-loops, if-statements, be able to write your own functions, and do more operations in Pandas, including some visualization. You will be easily able to transition to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
+After completing Python Intermediate, you will be able to understand for-loops and if-statements, write your own functions, and do more operations in Pandas such as creating simple visualizations. You will be easily able to transition to other D-Lab workshops such as [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
 
 ## Installation Instructions
