@@ -8,13 +8,28 @@ This repository contains the materials for D-Lab’s Python Fundamentals worksho
 
 This interactive workshop series is your complete introduction to programming Python for people with little or no previous programming experience. It covers the basics of Python and Jupyter, variables and data types, and a gentle introduction to data analysis in Pandas.
 
+## Learning Objectives
+
+After completing Python Fundamentals, you will be able to:
+- Navigate Jupyter Notebooks.
+- Assign variables.
+- Distinguish common data types and structures.
+- Apply methods to data types.
+- Perform basic operations in Pandas. 
+- Inspect documentation to deal with error messages.
+
+This workshop does not cover the following:
+- Programming concepts such as for-loops, if-statements, and writing your own fuctions. These are covered in [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot).
+- Advanced DataFrame manipulation. This is covered in [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling).
+- Data visualization. This is covered in [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot) and [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
+
+## Workshop Structure
+
 Python Fundamentals has 3 parts. Each of the parts takes 2 hours, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
 1. **Part 1: Introduction to Jupyter and Python**
 2. **Part 2: Data Types and Structures**
 3. **Part 3: Introduction to Pandas**
-
-After completing Python Fundamentals, you will be able to navigate Jupyter Notebooks, assign variables, distinguish common data types and structures, apply methods, and do basic operations in Pandas. You will have the minimum requirements to continue to other D-Lab workshops such as [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot), [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) or [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
 ## Installation Instructions
 
