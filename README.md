@@ -101,5 +101,3 @@ Here are other Python workshops offered by the D-Lab:
 * Tom van Nuenen
 * Emily Grabowski
 * Pratik Sachdeva
-* Christopher Hench
-* Rochelle Terman
