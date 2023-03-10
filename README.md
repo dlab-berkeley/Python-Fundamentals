@@ -33,7 +33,9 @@ Python Fundamentals has 3 parts. Each of the parts takes 2 hours, and is deliver
 
 ## Installation Instructions
 
-Anaconda is a useful package management software that allows you to run Python and Jupyter notebooks very easily. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
+Before attending the workshop, you should install Python and Jupyter to your computer. If you need help, please submit a [consulting request](https://dlab.berkeley.edu/consulting/submit-consulting-request) with D-Lab prior to the start of the workshop.
+
+Anaconda is software that allows you to run Python and Jupyter notebooks on your computer. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
 
 1. [Download and install Anaconda (Python 3.9 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 
@@ -67,11 +69,11 @@ If you do not have Anaconda installed and the materials loaded on your workshop 
 
 The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in a Jupyter notebook that is stored on UC Berkeley's servers. No installation is necessary from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `Python-Fundamentals` folder.
 
-If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
+If you don't have a Berkeley CalNet ID, you can still run these lessons in Binder, which is another cloud-based option. Click this button:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Fundamentals-Pilot/HEAD)
 
-By using this button, you cannot save your work unfortunately.
+Note: Using Binder, you unfortunately cannot save your work.
 
 # About the UC Berkeley D-Lab
 
