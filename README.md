@@ -19,7 +19,7 @@ After completing Python Fundamentals, you will be able to:
 - Inspect documentation to deal with error messages.
 
 This workshop does **not** cover the following:
-- Programming concepts such as for-loops, if-statements, and writing your own fuctions. These are covered in [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot).
+- Programming concepts such as for-loops, if-statements, and writing your own functions. These are covered in [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot).
 - Advanced DataFrame manipulation. This is covered in [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling).
 - Data visualization. This is covered in [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot) and [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
