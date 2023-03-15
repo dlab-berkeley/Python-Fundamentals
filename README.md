@@ -6,7 +6,7 @@ This repository contains the materials for D-Lab’s Python Fundamentals worksho
 
 ## Workshop Goals
 
-This interactive workshop series is your complete introduction to programming Python for people with little or no previous programming experience. It covers the basics of Python and Jupyter, variables and data types, and a gentle introduction to data analysis in Pandas.
+This three-part interactive workshop series is your complete introduction to programming Python for people with little or no previous programming experience, with a focus on data science application. It covers the basics of Python and Jupyter, variables and data types, and a gentle introduction to data analysis in Pandas.
 
 ## Learning Objectives
 
