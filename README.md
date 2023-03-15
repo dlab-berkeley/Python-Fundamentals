@@ -39,7 +39,7 @@ Anaconda is software that allows you to run Python and Jupyter notebooks on your
 
 1. [Download and install Anaconda (Python 3.9 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 
-2. Download the [Python-Fundamentals workshop materials](https://github.com/dlab-berkeley/Python-Fundamentals):
+2. Download the materials in this repository:
 
 * Click the green "Code" button in the top right of the repository information.
 * Click "Download Zip".
