@@ -37,8 +37,7 @@ Before attending the workshop, you should install Python and Jupyter to your com
 
 Anaconda is software that allows you to run Python and Jupyter notebooks on your computer. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
 
-1. [Download and install Anaconda (Python 3.9 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
-
+1. [Download and install Anaconda (Python 3.9 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system. 
 2. Download the materials in this repository:
 
 * Click the green "Code" button in the top right of the repository information.
@@ -60,6 +59,8 @@ Now that you have all the required software and materials, you need to run the c
 4. Open the `01_Jupyter_and_Python.ipynb` to begin.
 
 5. Press Shift + Enter (or Ctrl + Enter) to run a cell.
+
+Note: if you are having trouble accessing the Downloads/Desktop folder from Anaconda Navigator, [check out this post](https://docs.anaconda.com/free/navigator/troubleshooting/) or [submit a consulting request](https://dlab.berkeley.edu/consulting/submit-consulting-request) to get help!
 
 ## Is Python not working on your laptop?
 
