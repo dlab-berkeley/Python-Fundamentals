@@ -7,9 +7,13 @@ This repository contains the materials for D-Lab’s Python Fundamentals worksho
 ### Prerequisites
 No prior experience with Python is required.
 
+Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+
+
 ## Workshop Goals
 
-This three-part interactive workshop series is your complete introduction to programming Python for people with little or no previous programming experience, with a focus on data science application. It covers the basics of Python and Jupyter, variables and data types, and a gentle introduction to data analysis in Pandas.
+This six-part interactive workshop series is your complete introduction to programming Python for people with little or no previous programming experience, with a focus on data science application. In Parts 1-3, we cover the basics of Python and Jupyter, variables and data types, and a gentle introduction to data analysis in Pandas. In Parts 4-6, we cover loops and conditionals, creating your own functions, analysis and visualization in Pandas, and the workflow of a data science project.
+
 
 ## Learning Objectives
 
@@ -18,21 +22,27 @@ After completing Python Fundamentals, you will be able to:
 - Assign variables.
 - Distinguish common data types and structures.
 - Apply methods to data types.
-- Perform basic operations in Pandas.
 - Inspect documentation to deal with error messages.
+- Implement loops to do repeated computations.
+- Understand how to handle conditions.
+- Write your own functions.
+- Perform basic operations in Pandas, including visualization.
+- Understand the basic workflow for a data science project.
 
 This workshop does **not** cover the following:
-- Programming concepts such as for-loops, if-statements, and writing your own functions. These are covered in [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot).
 - Advanced DataFrame manipulation. This is covered in [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling).
-- Data visualization. This is covered in [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot) and [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
+- Advanced Data visualization. This is covered [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization).
 
 ## Workshop Structure
 
-Python Fundamentals has 3 parts. Each of the parts takes 2 hours, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
+Python Fundamentals has 6 parts. Each of the parts takes 2 hours, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
 1. **Part 1: Introduction to Jupyter and Python**
 2. **Part 2: Data Types and Structures**
 3. **Part 3: Introduction to Pandas**
+4. **Part 4: Functions and Conditionals**
+5. **Part 5: Data Analysis and Visualization**
+6. **Part 6: Project**
 
 ## Installation Instructions
 
@@ -91,17 +101,15 @@ Here are other Python workshops offered by the D-Lab:
 
 ### Basic competency
 
-* [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate-Pilot)
 * [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling)
-* [Python Data Visuzalization](https://github.com/dlab-berkeley/Python-Data-Visualization)
+* [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization)
 * [Geospatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)
 
 ### Intermediate/advanced competency
 
-* [Computational Text Analysis in Python](https://github.com/dlab-berkeley/computational-text-analysis-spring-2019)
-* [Introduction to Machine Learning in Python](https://github.com/dlab-berkeley/python-machine-learning)
-* [Introduction to Artificial Neural Networks in Python](https://github.com/dlab-berkeley/ANN-Fundamentals)
-* [Fairness and Bias in Machine Learning](https://github.com/dlab-berkeley/fairML)
+* [Python Text Analysis](https://github.com/dlab-berkeley/python-text-analysis)
+* [Python Machine Learning](https://github.com/dlab-berkeley/python-machine-learning)
+* [Python Deep Learning](https://github.com/dlab-berkeley/python-deep-learning)
 
 # Contributors
 * Tom van Nuenen
