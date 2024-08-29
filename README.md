@@ -57,7 +57,7 @@ Anaconda is software that allows you to run Python and Jupyter notebooks on your
 * Click "Download Zip".
 * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 
-3. Optional: if you're familiar with `git`, you can instead clone this repository by opening a terminal and entering `git clone git@github.com:dlab-berkeley/Python-Fundamentals-I.git`.
+3. Optional: if you're familiar with `git`, you can instead clone this repository by opening a terminal and entering `git clone https://github.com/dlab-berkeley/Python-Fundamentals.git`.
 
 ## Run the code
 
