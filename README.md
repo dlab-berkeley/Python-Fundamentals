@@ -1,4 +1,4 @@
-# D-Lab's Python Fundamentals Workshop
+# D-Lab Python Fundamentals Workshop
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](http://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Fundamentals&urlpath=lab%2Ftree%2FPython-Fundamentals%2F) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Fundamentals/HEAD) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
