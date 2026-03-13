@@ -48,7 +48,7 @@ Python Fundamentals has 6 parts. Each of the parts takes 2 hours, and is deliver
 
 Before attending the workshop, you should install Python and Jupyter to your computer. If you need help, please submit a [consulting request](https://dlab.berkeley.edu/consulting/submit-consulting-request) with D-Lab prior to the start of the workshop.
 
-Anaconda is software that allows you to run Python and Jupyter notebooks on your computer. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
+Anaconda is software that allows you to run Python and Jupyter notebooks on your computer. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. We recommend **Python 3.12 or later** (the latest Anaconda distribution includes this by default). Complete the following steps:
 
 1. [Download and install Anaconda](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system. 
 2. Download the materials in this repository:
