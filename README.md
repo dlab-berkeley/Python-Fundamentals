@@ -59,6 +59,8 @@ Anaconda is software that allows you to run Python and Jupyter notebooks on your
 
 3. Optional: if you're familiar with `git`, you can instead clone this repository by opening a terminal and entering `git clone https://github.com/dlab-berkeley/Python-Fundamentals.git`.
 
+You can also follow a step-by-step Anaconda Installation tutorial with visuals [here](https://docs.google.com/document/d/1at2ETX8JMK749OfGhr1otqXLbBhXl-taL7qxEN3oM4I/edit?tab=t.0#heading=h.jrf7c8t91b22). 
+
 ## Run the code
 
 Now that you have all the required software and materials, you need to run the code:
@@ -67,7 +69,7 @@ Now that you have all the required software and materials, you need to run the c
 
 2. Click the "Launch" button under "Jupyter Lab" and navigate through your file system to the `Python-Fundamentals` folder you downloaded above.
 
-3. Navigate to lessons -> Fundamentals-I
+3. Navigate to the `lessons` folder
 
 4. Open the `01_Jupyter_and_Python.ipynb` to begin.
 
